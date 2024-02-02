@@ -1,2 +1,17 @@
 
 /* Your CSS Code here. */
+
+ table {
+            width: 100%;
+        }
+
+th, td {
+	    border: 1px solid black;
+	    text-align: center;
+		
+	}
+.BgColor{
+	background-color: black;
+	color: white;
+}
+
